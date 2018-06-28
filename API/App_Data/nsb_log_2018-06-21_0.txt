@@ -1,0 +1,44 @@
+﻿2018-06-21 04:51:43.513 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 04:51:43.755 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 04:56:17.322 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 04:56:17.619 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 07:27:17.363 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 07:27:17.613 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 07:27:40.472 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-21 07:28:16.738 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 07:28:17.066 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 07:28:51.972 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-21 07:45:32.211 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 07:45:32.508 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 07:45:39.398 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-21 09:11:35.101 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 09:11:35.377 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 10:11:57.771 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 10:11:58.025 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 10:12:02.247 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-21 10:37:04.258 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 10:37:04.535 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 10:37:25.223 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-21 10:57:56.115 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 10:57:56.522 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 11:17:49.977 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 11:17:50.633 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 11:20:34.147 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 11:20:34.663 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 11:22:51.818 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 11:22:52.536 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-21 11:40:23.731 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-21 11:40:24.192 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+

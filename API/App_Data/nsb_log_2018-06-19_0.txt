@@ -1,0 +1,44 @@
+﻿2018-06-19 06:00:57.601 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 06:00:57.992 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 06:14:53.545 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 06:14:53.889 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 06:32:14.503 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 06:32:14.862 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 06:41:50.897 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 06:41:51.568 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 08:34:00.194 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 08:34:00.554 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 09:10:15.004 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 09:10:15.386 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 09:14:17.852 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 09:14:18.237 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 09:22:48.798 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 09:22:49.204 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 09:25:38.989 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 09:25:39.347 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 09:27:18.520 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 09:27:19.097 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 10:14:14.375 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 10:14:14.760 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 10:15:58.809 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 10:15:59.252 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 10:40:45.028 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 10:40:45.268 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 10:41:23.064 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-19 11:01:28.957 INFO  DefaultFactory Logging to 'C:\Development\NSB_AWS_V7\API\App_Data\' with level Info
+2018-06-19 11:01:29.248 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-06-19'.
+
+2018-06-19 11:02:24.244 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.

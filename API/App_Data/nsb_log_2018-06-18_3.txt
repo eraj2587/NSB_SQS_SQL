@@ -1,0 +1,20 @@
+﻿2018-06-18 23:16:47.168 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:19:37.227 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:21:22.898 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:23:57.423 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:23:57.740 INFO  NServiceBus.LicenseManager Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+
+2018-06-18 23:25:21.997 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:25:22.355 INFO  NServiceBus.LicenseManager Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+
+2018-06-18 23:37:48.705 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:37:49.038 INFO  NServiceBus.LicenseManager Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+
+2018-06-18 23:38:28.064 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-18 23:39:48.666 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:39:49.013 INFO  NServiceBus.LicenseManager Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+
+2018-06-18 23:42:24.277 WARN  NServiceBus.Transport.SQLServer.SqlConnectionFactory Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2018-06-18 23:47:50.459 INFO  DefaultFactory Logging to 'C:\Rajaram\Project Docs\AWS\Demo\NSB_AWS_V7\V7\API\App_Data\' with level Info
+2018-06-18 23:47:50.862 INFO  NServiceBus.LicenseManager Selected active license from C:\ProgramData\ParticularSoftware\license.xml
+
